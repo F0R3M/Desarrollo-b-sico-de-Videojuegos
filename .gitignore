@@ -1,0 +1,24 @@
+[Librerías y datos temporales]
+/Library/
+Temp/
+Logs/
+/Obj/
+MemoryCaptures/
+
+[Archivos de compilación]
+Build/
+Builds/
+*.apk
+*.unitypackage
+
+[IDE]
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.userprefs
+
+[Sistema operativo]
+.DS_Store
+Thumbs.db
